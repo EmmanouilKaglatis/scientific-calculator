@@ -1,6 +1,6 @@
 from tkinter import *
 import math
-#main code
+
 def click(value):
     ex = entryField.get()  
     answer = ''
