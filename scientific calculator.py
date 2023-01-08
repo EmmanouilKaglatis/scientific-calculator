@@ -1,4 +1,4 @@
-from tkinter import *    nsioacao
+from tkinter import *
 import math
 
 def click(value):
